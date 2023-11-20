@@ -1,0 +1,15 @@
+C:\Users\ACER\Documents\Rainaldo UKK\C#\Lat ukk C#\bin\Debug\net7.0\Lat ukk C#.exe
+C:\Users\ACER\Documents\Rainaldo UKK\C#\Lat ukk C#\bin\Debug\net7.0\Lat ukk C#.deps.json
+C:\Users\ACER\Documents\Rainaldo UKK\C#\Lat ukk C#\bin\Debug\net7.0\Lat ukk C#.runtimeconfig.json
+C:\Users\ACER\Documents\Rainaldo UKK\C#\Lat ukk C#\bin\Debug\net7.0\Lat ukk C#.dll
+C:\Users\ACER\Documents\Rainaldo UKK\C#\Lat ukk C#\bin\Debug\net7.0\Lat ukk C#.pdb
+C:\Users\ACER\Documents\Rainaldo UKK\C#\Lat ukk C#\obj\Debug\net7.0\Lat ukk C#.csproj.AssemblyReference.cache
+C:\Users\ACER\Documents\Rainaldo UKK\C#\Lat ukk C#\obj\Debug\net7.0\Lat ukk C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Documents\Rainaldo UKK\C#\Lat ukk C#\obj\Debug\net7.0\Lat ukk C#.AssemblyInfoInputs.cache
+C:\Users\ACER\Documents\Rainaldo UKK\C#\Lat ukk C#\obj\Debug\net7.0\Lat ukk C#.AssemblyInfo.cs
+C:\Users\ACER\Documents\Rainaldo UKK\C#\Lat ukk C#\obj\Debug\net7.0\Lat ukk C#.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Documents\Rainaldo UKK\C#\Lat ukk C#\obj\Debug\net7.0\Lat ukk C#.dll
+C:\Users\ACER\Documents\Rainaldo UKK\C#\Lat ukk C#\obj\Debug\net7.0\refint\Lat ukk C#.dll
+C:\Users\ACER\Documents\Rainaldo UKK\C#\Lat ukk C#\obj\Debug\net7.0\Lat ukk C#.pdb
+C:\Users\ACER\Documents\Rainaldo UKK\C#\Lat ukk C#\obj\Debug\net7.0\Lat ukk C#.genruntimeconfig.cache
+C:\Users\ACER\Documents\Rainaldo UKK\C#\Lat ukk C#\obj\Debug\net7.0\ref\Lat ukk C#.dll
